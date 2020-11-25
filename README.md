@@ -4,8 +4,8 @@
 <code>$cd bin</code>  
 <code>$mongodump</code>  
 <code>$cd dump</code>  
-<ul><li>checar se criou os arquivos dentro da pasta dump/convida<li><ul>  
-<code>$exit<> para sair do terminal do container</code>  
+<ul><li>checar se criou os arquivos dentro da pasta dump/convida<li></ul>  
+<code>$exit</code> para sair do terminal do container  
 <code>$sudo docker cp IDDOCONTAINER:/bin/dump/convida (caminho do diretório dump)</code>  
 <code>/home/convida/backup/pasta-com-o-dia-do-backup (caminho de destino)</code>  
 <code>$git add <pasta-do-backup></code>  
