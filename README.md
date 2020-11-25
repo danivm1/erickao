@@ -25,7 +25,7 @@ Sumário
 
 ## Tutorial rodar o backend convida localmente
 
-Pré-requisitos:
+Pré-requisitos:  
 Ter o docker instalado na sua máquina (https://docs.docker.com/engine/install/)
 Ter o docker-compose instalado na sua máquina (https://docs.docker.com/compose/install/)
 Ter o Git instalado na sua máquina (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
