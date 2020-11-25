@@ -6,8 +6,8 @@
 <code>$cd dump</code>  
 <ul><li>checar se criou os arquivos dentro da pasta dump/convida</li></ul>  
 <code>$exit</code> para sair do terminal do container</br>
-<code>$sudo docker cp IDDOCONTAINER:/bin/dump/convida</code> (caminho do diretório dump)  
-<code>/home/convida/backup/pasta-com-o-dia-do-backup</code> (caminho de destino)  
-<code>$git add pasta-do-backup</code>  
-<code>$git commit -m “dia do backup”</code>  
-<code>$git push</code>  
+<code>$sudo docker cp IDDOCONTAINER:/bin/dump/convida</code> (caminho do diretório dump)</br>
+<code>/home/convida/backup/pasta-com-o-dia-do-backup</code> (caminho de destino)</br>
+<code>$git add pasta-do-backup</code></br>
+<code>$git commit -m “dia do backup”</code></br>
+<code>$git push</code>
