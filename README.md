@@ -1,3 +1,4 @@
+
 ## BACKUP DO MONGO - UFPR CONVIDA - ESSE MÉTODO SÓ FUNCIONA PARA VERSÕES ABAIXO DO MONGODB 4.4
 <code>$sudo docker container ls para ver as informações dos containers e pegar o CONTAINER_ID</code>  
 <code>$sudo docker exec -it CONTAINER_ID bash - ABRE UM TERMINAL DENTRO DO CONTAINER</code>  
@@ -11,3 +12,4 @@
 <code>$git add <pasta-do-backup></code>  
 <code>$git commit -m “dia do backup”</code>  
 <code>$git push</code>  
+
