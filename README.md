@@ -38,7 +38,7 @@ Passo 3: Na pasta raiz do projeto clonado abrir um terminal e rodar o comando:
 <code>$ sudo docker compose-build</code>  
 Se tudo ocorrer corretamente, você deverá ver  algo parecido com a seguinte mensagem:  
 
-![img1](./img/img1.PNG)
+![img1](./docs/images/img1.PNG)
 
 > NOTA: Esse comando pode demorar um pouco para ser concluído, principalmente da primeira vez que for rodado.  
 
