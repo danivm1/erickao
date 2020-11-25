@@ -2,8 +2,6 @@ Sumário
 [Backup Mongo](#mongo)
 [Backend Convida](#convida)
 
-[]()
-
 
 <a name="mongo"/>
 
@@ -29,20 +27,22 @@ Sumário
 ## Tutorial rodar o backend convida localmente
 
 Pré-requisitos:  
-Ter o docker instalado na sua máquina ([site docker](https://docs.docker.com/engine/install/))
-Ter o docker-compose instalado na sua máquina [site docker composer](https://docs.docker.com/compose/install/)
-Ter o Git instalado na sua máquina (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-Tutorial
-Passo 1: Clonar o projeto do backend
-Passo 2: Fazer o download do repositório de backups como um .zip (https://github.com/ufpr-convida/backup)
-Passo 3: Na pasta raiz do projeto clonado abrir um terminal e rodar o comando:
-$ sudo docker compose-build
-Se tudo ocorrer corretamente, você deverá ver  algo parecido com a seguinte mensagem:
+Ter o docker instalado na sua máquina ([site docker](https://docs.docker.com/engine/install/))  
+Ter o docker-compose instalado na sua máquina ([site docker composer](https://docs.docker.com/compose/install/))  
+Ter o Git instalado na sua máquina ([site git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))  
 
-NOTA: Esse comando pode demorar um pouco para ser concluído, principalmente da primeira vez que for rodado.
-Em seguida rodar:
-$ sudo docker compose-up
-Caso o comando seja bem sucedido,você verá algo como essa imagem:
+Tutorial:  
+Passo 1: Clonar o projeto do backend  
+Passo 2: Fazer o download do repositório de backups como um .zip (https://github.com/ufpr-convida/backup)  
+Passo 3: Na pasta raiz do projeto clonado abrir um terminal e rodar o comando:  
+<code>$ sudo docker compose-build</code>  
+Se tudo ocorrer corretamente, você deverá ver  algo parecido com a seguinte mensagem:  
+
+> NOTA: Esse comando pode demorar um pouco para ser concluído, principalmente da primeira vez que for rodado.  
+
+Em seguida rodar:  
+<code>$ sudo docker compose-up</code>  
+Caso o comando seja bem sucedido,você verá algo como essa imagem:  
 
 
 Passo 4: Com os containers rodando, em um novo terminal, digite o seguinte comando:
